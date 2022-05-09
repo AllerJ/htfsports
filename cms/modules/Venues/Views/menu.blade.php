@@ -1,0 +1,1 @@
+<li class="nav-item @if (Request::is(config('cms.backend-route-prefix', 'cms').'/venues') || Request::is(config('cms.backend-route-prefix', 'cms').'/venues/*')) active @endif"><a href="{{ url(config('cms.backend-route-prefix', 'cms').'/venues') }}" class="nav-link"><span class="fa fa-file"></span> Venues</a></li>

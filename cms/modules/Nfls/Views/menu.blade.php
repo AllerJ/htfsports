@@ -1,0 +1,1 @@
+<!-- <li class="nav-item @if (Request::is(config('cms.backend-route-prefix', 'cms').'/nfls') || Request::is(config('cms.backend-route-prefix', 'cms').'/nfls/*')) active @endif"><a href="{{ url(config('cms.backend-route-prefix', 'cms').'/nfls') }}" class="nav-link"><span class="fa fa-file"></span> Nfls</a></li> -->

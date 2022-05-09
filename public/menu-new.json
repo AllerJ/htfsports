@@ -1,0 +1,53 @@
+[
+    {
+        "title":"Account",
+        "drawable":"WordPress-32",
+        "submenu":"WELCOME",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Your Account",
+                "provider":"webview",
+                "image":"Clock-32",
+                "route":"home",
+                "arguments":[
+                    "https://api.htfsports.com"
+                ]
+            }
+        ]
+    },
+    {
+        "title":"Start Draft",
+        "drawable":"Shopping-Bag-32",
+        "submenu":"",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Touchdowns",
+                "provider":"webview",
+                "image":"Shopping-Bag-32",
+                "route":"touchdowns",
+                "arguments":[
+                    "https://api.htfsports.com/games/td"
+                ]
+            },{
+                "title":"All Purpose Yards",
+                "provider":"webview",
+                "image":"Shopping-Bag-32",
+                "route":"yards",
+                "arguments":[
+                    "htfsports://games/yards"
+                ]
+            },{
+                "title":"Receptions",
+                "provider":"webview",
+                "image":"Location-32",
+                "route":"receptions",
+                "arguments":[
+                    "htfsports://games/receptions"
+                ]
+            }
+        ]
+    }
+
+]

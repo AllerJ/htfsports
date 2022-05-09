@@ -1,0 +1,1 @@
+<!-- <li class="nav-item @if (Request::is(config('cms.backend-route-prefix', 'cms').'/owners') || Request::is(config('cms.backend-route-prefix', 'cms').'/owners/*')) active @endif"><a href="{{ url(config('cms.backend-route-prefix', 'cms').'/owners') }}" class="nav-link"><span class="fa fa-file"></span> Owners</a></li> -->

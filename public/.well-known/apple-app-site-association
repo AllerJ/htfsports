@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ZZN3NDV6G8.com.htfsports.app",
+                "paths": [
+                    "/games/*",
+                    "/"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+<!-- <li class="nav-item @if (Request::is(config('cms.backend-route-prefix', 'cms').'/leagues') || Request::is(config('cms.backend-route-prefix', 'cms').'/leagues/*')) active @endif"><a href="{{ url(config('cms.backend-route-prefix', 'cms').'/leagues') }}" class="nav-link"><span class="fa fa-file"></span> Leagues</a></li> -->

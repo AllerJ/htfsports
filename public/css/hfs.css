@@ -1,0 +1,219 @@
+.bg-light {
+    background-color: transparent!important;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.blue_background {
+    background-color: #34598F;
+    color:#fff;
+}
+.gray_background {
+    background-color: #dbdbdb;
+    color:#34598F;
+}
+.green_background {
+    background-color: #4FA947;
+    color:#fff;
+}
+.bold {
+    font-weight: bold;
+}
+
+.font_12 {
+    font-size:.75em;
+}
+
+.font_10 {
+    font-size:0.625rem;
+}
+
+.font_8 {
+    font-size:0.5rem;
+}
+
+
+.hide-player {
+    display:none;
+}
+
+
+.right_line {
+    padding-right:13px;
+    border-right:solid 2px #fff;
+}
+.top_line {
+    margin-top:2px;
+}
+/* NAVBAR SLIDE */
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background: #fafafa;
+}
+
+.footer_padding {
+    height:300px;
+}
+
+
+
+
+
+
+
+
+
+.player-stats .dropdown-item {
+    padding:.25rem .25rem
+}
+
+.less-left {
+    padding-left:3px;
+}
+.less-right {
+    padding-right:3px;
+}
+
+/* BUTTONS */
+
+.btn-green { 
+  color: #FFFFFF; 
+  background-color: #4FA947; 
+  border-color: #4FA947; 
+} 
+ 
+.btn-green:hover, 
+.btn-green:focus, 
+.btn-green:active, 
+.btn-green.active, 
+.open .dropdown-toggle.btn-green { 
+  color: #FFFFFF; 
+  background-color: #283F61; 
+  border-color: #4FA947; 
+} 
+ 
+.btn-green:active, 
+.btn-green.active, 
+.open .dropdown-toggle.btn-green { 
+  background-image: none; 
+} 
+ 
+.btn-green.disabled, 
+.btn-green[disabled], 
+fieldset[disabled] .btn-green, 
+.btn-green.disabled:hover, 
+.btn-green[disabled]:hover, 
+fieldset[disabled] .btn-green:hover, 
+.btn-green.disabled:focus, 
+.btn-green[disabled]:focus, 
+fieldset[disabled] .btn-green:focus, 
+.btn-green.disabled:active, 
+.btn-green[disabled]:active, 
+fieldset[disabled] .btn-green:active, 
+.btn-green.disabled.active, 
+.btn-green[disabled].active, 
+fieldset[disabled] .btn-green.active { 
+  background-color: #4FA947; 
+  border-color: #4FA947; 
+} 
+ 
+.btn-green .badge { 
+  color: #4FA947; 
+  background-color: #FFFFFF; 
+}
+
+
+.btn-blue { 
+  color: #FFFFFF; 
+  background-color: #283F61; 
+  border-color: #283F61; 
+} 
+ 
+.btn-blue:hover, 
+.btn-blue:focus, 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+  color: #FFFFFF; 
+  background-color: #4FA947; 
+  border-color: #283F61; 
+} 
+ 
+.btn-blue:active, 
+.btn-blue.active, 
+.open .dropdown-toggle.btn-blue { 
+  background-image: none; 
+} 
+ 
+.btn-blue.disabled, 
+.btn-blue[disabled], 
+fieldset[disabled] .btn-blue, 
+.btn-blue.disabled:hover, 
+.btn-blue[disabled]:hover, 
+fieldset[disabled] .btn-blue:hover, 
+.btn-blue.disabled:focus, 
+.btn-blue[disabled]:focus, 
+fieldset[disabled] .btn-blue:focus, 
+.btn-blue.disabled:active, 
+.btn-blue[disabled]:active, 
+fieldset[disabled] .btn-blue:active, 
+.btn-blue.disabled.active, 
+.btn-blue[disabled].active, 
+fieldset[disabled] .btn-blue.active { 
+  background-color: #283F61; 
+  border-color: #283F61; 
+} 
+ 
+.btn-blue .badge { 
+  color: #283F61; 
+  background-color: #FFFFFF; 
+}
+
+.btn-instagram { 
+  color: #FFFFFF; 
+  background:  linear-gradient( #400080, transparent), 
+            linear-gradient(200deg, #d047d1, #ff0000,    #ffff00);
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-instagram:hover, 
+.btn-instagram:focus, 
+.btn-instagram:active, 
+.btn-instagram.active, 
+.open .dropdown-toggle.btn-instagram { 
+  color: #FFFFFF; 
+    background:  linear-gradient( #400080, transparent), 
+            linear-gradient(200deg, #d047d1, #ff0000,    #ffff00);
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-instagram:active, 
+.btn-instagram.active, 
+.open .dropdown-toggle.btn-instagram { 
+  background-image: none; 
+} 
+ 
+.btn-instagram.disabled, 
+.btn-instagram[disabled], 
+fieldset[disabled] .btn-instagram, 
+.btn-instagram.disabled:hover, 
+.btn-instagram[disabled]:hover, 
+fieldset[disabled] .btn-instagram:hover, 
+.btn-instagram.disabled:focus, 
+.btn-instagram[disabled]:focus, 
+fieldset[disabled] .btn-instagram:focus, 
+.btn-instagram.disabled:active, 
+.btn-instagram[disabled]:active, 
+fieldset[disabled] .btn-instagram:active, 
+.btn-instagram.disabled.active, 
+.btn-instagram[disabled].active, 
+fieldset[disabled] .btn-instagram.active { 
+  background-color: #283F61; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-instagram .badge { 
+  color: #283F61; 
+  background-color: #FFFFFF; 
+}

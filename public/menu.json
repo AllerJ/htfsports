@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Account",
+        "drawable":"WordPress-32",
+        "submenu":"WELCOME",
+        "iap":false,
+        "tabs":[
+            {
+                "title":"Your Account",
+                "provider":"webview",
+                "image":"Clock-32",
+                "arguments":[
+                    "https://api.htfsports.com"
+                ]
+            }
+        ]
+    }
+]
